@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="850" height="320">
+  <defs>
+    <!-- Background Linear Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050a14" />
+      <stop offset="50%" stop-color="#0b1528" />
+      <stop offset="100%" stop-color="#070d18" />
+    </linearGradient>
+
+    <!-- Neon Header Gradient -->
+    <linearGradient id="neonTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#4FD1C5" />
+      <stop offset="100%" stop-color="#FFAA33" />
+    </linearGradient>
+
+    <!-- Terminal Inner Glow -->
+    <linearGradient id="termBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#FFAA33" stop-opacity="0.6" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+      font-size: 28px;
+      font-weight: 800;
+      fill: url(#neonTitle);
+      letter-spacing: 2px;
+    }
+    .term-text {
+      font-family: 'JetBrains Mono', 'Fira Code', monospace;
+      font-size: 13.5px;
+      fill: #e2e8f0;
+    }
+    .keyword { fill: #00F2FE; font-weight: 600; }
+    .fn { fill: #FFAA33; font-weight: 600; }
+    .str { fill: #4ADE80; }
+    .badge { fill: #A78BFA; }
+    .prompt { fill: #F43F5E; font-weight: 700; }
+    .path { fill: #38BDF8; }
+    .comment { fill: #64748B; font-style: italic; }
+
+    /* Blinking Cursor Animation */
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .cursor {
+      animation: blink 0.9s infinite;
+      fill: #00F2FE;
+    }
+
+    /* Ambient pulse on status badge */
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+    .pulse-glow {
+      animation: pulse 2s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Outer Card Frame -->
+  <rect x="2" y="2" width="846" height="316" rx="18" fill="url(#bgGrad)" stroke="url(#termBorder)" stroke-width="1.8" />
+
+  <!-- Subtle Cyberpunk Grid Lines -->
+  <g stroke="#ffffff" stroke-opacity="0.03" stroke-width="1">
+    <line x1="0" y1="60" x2="850" y2="60" />
+    <line x1="0" y1="120" x2="850" y2="120" />
+    <line x1="0" y1="180" x2="850" y2="180" />
+    <line x1="0" y1="240" x2="850" y2="240" />
+    <line x1="170" y1="0" x2="170" y2="320" />
+    <line x1="340" y1="0" x2="340" y2="320" />
+    <line x1="510" y1="0" x2="510" y2="320" />
+    <line x1="680" y1="0" x2="680" y2="320" />
+  </g>
+
+  <!-- Terminal Top Header Bar -->
+  <rect x="2" y="2" width="846" height="42" rx="18" fill="#080e1a" fill-opacity="0.85" />
+  <line x1="2" y1="44" x2="848" y2="44" stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" />
+
+  <!-- macOS Window Dots -->
+  <circle cx="28" cy="23" r="6" fill="#FF5F56" />
+  <circle cx="48" cy="23" r="6" fill="#FFBD2E" />
+  <circle cx="68" cy="23" r="6" fill="#27C93F" />
+
+  <!-- Terminal Title & Host Info -->
+  <text x="425" y="27" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="12" fill="#94A3B8" font-weight="500">
+    karan@khot-core: ~/portfolio (main) ⚡
+  </text>
+
+  <!-- Online Status Indicator Pill (Top Right) -->
+  <rect x="735" y="14" width="88" height="19" rx="9.5" fill="#0F766E" fill-opacity="0.3" stroke="#2DD4BF" stroke-opacity="0.5" stroke-width="1" />
+  <circle cx="747" cy="23.5" r="3.5" fill="#2DD4BF" class="pulse-glow" filter="url(#glow)" />
+  <text x="758" y="27" font-family="'JetBrains Mono', monospace" font-size="10" fill="#2DD4BF" font-weight="700">ONLINE</text>
+
+  <!-- Main Identity Banner Content -->
+  <g transform="translate(32, 78)">
+    <text x="0" y="0" class="title" filter="url(#glow)">KARAN AJIT KHOT</text>
+    <text x="350" y="-3" font-family="'JetBrains Mono', monospace" font-size="12" fill="#FFAA33" font-weight="600">
+      ✦ [B.Tech CSE '27]
+    </text>
+
+    <!-- Terminal Command 1 -->
+    <text x="0" y="32" class="term-text">
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--role</tspan>
+      <tspan fill="#64748B"> # specialization &amp; disciplines</tspan>
+    </text>
+    <text x="18" y="52" class="term-text">
+      <tspan class="str">"Software Developer · Full-Stack &amp; 3D Interactive Web Engineer"</tspan>
+    </text>
+
+    <!-- Terminal Command 2 -->
+    <text x="0" y="82" class="term-text">
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--core-stack</tspan>
+    </text>
+    <text x="18" y="102" class="term-text">
+      <tspan fill="#CBD5E1">[ </tspan>
+      <tspan class="str">"React 19"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Node.js"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Three.js"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Express.js"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"PostgreSQL"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Java"</tspan>
+      <tspan fill="#CBD5E1"> ]</tspan>
+    </text>
+
+    <!-- Terminal Command 3 -->
+    <text x="0" y="132" class="term-text">
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--honors</tspan>
+    </text>
+    <text x="18" y="152" class="term-text">
+      <tspan class="badge">🛰️ ISRO Antariksh '26 Finalist</tspan>
+      <tspan fill="#475569"> │ </tspan>
+      <tspan class="badge">🚀 Smart India Hackathon '26</tspan>
+      <tspan fill="#475569"> │ </tspan>
+      <tspan class="badge">⭐ AICTE Grade 'O' Intern</tspan>
+    </text>
+
+    <!-- Terminal Command 4 (Active Execution with Blinking Cursor) -->
+    <text x="0" y="182" class="term-text">
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--status</tspan> <tspan fill="#E2E8F0">"Engineering high-performance software and ready for SDE roles"</tspan> <tspan class="cursor">█</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Accent Gradient Line -->
+  <line x1="2" y1="316" x2="848" y2="316" stroke="url(#neonTitle)" stroke-width="2.5" />
+</svg>

@@ -1,145 +1,213 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070d18,40:0f1c2a,75:134e4a,100:070d18&height=220&section=header&text=Karan%20Ajit%20Khot&fontSize=42&fontColor=FDFBF7&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%26%20Interactive%20Web%20Engineer&descAlignY=58&descSize=16&descColor=4FD1C5" width="100%" alt="Karan Ajit Khot Header">
+<!-- Custom Animated SVG Cyberpunk Terminal Banner (Hosted Locally — Never Breaks) -->
+<img src="./banner.svg" width="100%" alt="Karan Ajit Khot Terminal HUD" />
 
-<!-- Animated Typewriter Subtitle -->
-<a href="https://github.com/karanajitkhot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=4FD1C5&center=true&vCenter=true&width=800&lines=Final-Year+B.Tech+CSE+@+AMGOI+(Graduating+2027);Full-Stack+Developer+%E2%80%A2+React%2C+Node.js%2C+Express%2C+PostgreSQL;National+Finalist+%E2%80%94+ISRO+Antariksh+Hackathon+2026;Smart+India+Hackathon+2026+Participant+%E2%80%A2+AICTE+Grade+'O'+Intern;Passionate+about+Building+Scalable%2C+User-Centric+Applications" alt="Typing SVG">
-</a>
+<br/><br/>
 
-<br/>
-
-<!-- Quick Connect & Badge Bar -->
+<!-- Interactive Badge Bar -->
 <p align="center">
   <a href="https://www.linkedin.com/in/karan-khot-22bab227a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:karankhot1882@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/karanajitkhot?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-17-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
+  &nbsp;
   <a href="https://wa.me/919112801882" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=karanajitkhot&style=for-the-badge&color=0F766E&label=PROFILE+VISITS" alt="Profile views">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-900%2B-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=karanajitkhot&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### ⚡ System Identity & Executive Specs
 
 ```yaml
-Name: Karan Ajit Khot (KK)
-Degree: B.Tech in Computer Science & Engineering (Final-Year, 2027)
-Institution: Ashokrao Mane Group of Institutions (AMGOI), Maharashtra
-Academic Score: CGPA 7.0 / 10
-Core Focus: Full-Stack Architecture, REST APIs, 3D Web Graphics, Database Design
-Status: Open for Software Engineering Roles & SDE Internships
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ DEVELOPER SPECIFICATION                                                     │
+├───────────────────────┬─────────────────────────────────────────────────────┤
+│ Identity              │ Karan Ajit Khot (KK)                                │
+│ Academic Credential   │ B.Tech in Computer Science & Engineering (2027)     │
+│ Alma Mater            │ Ashokrao Mane Group of Institutions (AMGOI), MH     │
+│ Cumulative CGPA       │ 7.0 / 10.0                                          │
+│ Engineering Focus     │ Full-Stack Architecture, REST APIs, 3D Web Graphics │
+│ Current Mission       │ Open for Software Engineering Roles & SDE Interns   │
+│ Operational Base      │ Kolhapur / Ashta, Maharashtra, India                │
+└───────────────────────┴─────────────────────────────────────────────────────┘
 ```
 
-I am an aspiring Software Developer focused on building end-to-end digital solutions that bridge intuitive frontends with reliable backend architectures. From creating dynamic role-based applications to interactive 3D web visualizations and IoT prototypes, I emphasize clean code, practical workflows, and iterative engineering.
+> **Developer Creed:** *"Transforming ideas into high-performance applications, structured full-stack architectures, and intuitive digital experiences — engineered with precision and clean code."*
 
 ---
 
-### 🏆 Key Honors & Verified Credentials
+### 📊 Technical Power Matrix
+
+```ini
+[Full-Stack Architecture]   ████████████████████ 96%  (React 19, Node.js, Express, RESTful APIs)
+[Interactive 3D & Graphics]  ██████████████████▒▒ 88%  (Three.js, React Three Fiber, GSAP Easing)
+[Databases & Storage]        ██████████████████▒▒ 90%  (PostgreSQL, MySQL, MongoDB, Schema Design)
+[Problem Solving & Logic]    ███████████████████▒ 93%  (Data Structures, System Workflows, Debugging)
+[DevOps & Tooling]           ██████████████████▒▒ 89%  (Git, Linux, Vercel, Postman, CI/CD)
+```
+
+---
+
+### 🏆 Key Honors & Verified National Milestones
+
+<table>
+  <thead>
+    <tr>
+      <th>Badge</th>
+      <th>Milestone / Assessment</th>
+      <th>Issuing Authority</th>
+      <th>Standing / Distinction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛰️</td>
+      <td><b>Bharatiya Antariksh Hackathon 2026</b></td>
+      <td><b>ISRO &amp; Hack2Skill</b></td>
+      <td><code>National Space Finalist</code></td>
+    </tr>
+    <tr>
+      <td>🚀</td>
+      <td><b>Smart India Hackathon 2026</b></td>
+      <td><b>Ministry of Education, GoI</b></td>
+      <td><code>Team Lead / Candidate</code></td>
+    </tr>
+    <tr>
+      <td>⭐</td>
+      <td><b>AI Deployment &amp; Automation Internship</b></td>
+      <td><b>AICTE &amp; EduSkills</b></td>
+      <td><code>Grade "O" (Outstanding)</code></td>
+    </tr>
+    <tr>
+      <td>⭐</td>
+      <td><b>Python Full Stack Internship</b></td>
+      <td><b>AICTE &amp; EduSkills</b></td>
+      <td><code>Grade "O" (Outstanding)</code></td>
+    </tr>
+    <tr>
+      <td>🌟</td>
+      <td><b>Java Full Stack Internship</b></td>
+      <td><b>AICTE &amp; EduSkills</b></td>
+      <td><code>Grade "A"</code></td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td><b>Spoken Tutorial &amp; Placement Prep</b></td>
+      <td><b>IIT Bombay (Abhyuday)</b></td>
+      <td><code>Verified National Assessment</code></td>
+    </tr>
+    <tr>
+      <td>🤖</td>
+      <td><b>Introduction to Artificial Intelligence</b></td>
+      <td><b>IBM SkillsBuild</b></td>
+      <td><code>Industry Certified</code></td>
+    </tr>
+    <tr>
+      <td>💻</td>
+      <td><b>Software Engineer Role Assessment</b></td>
+      <td><b>HackerRank</b></td>
+      <td><code>Verified Role Credential</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🛠️ Technical Stack Universe
 
 <div align="center">
 
-| Milestone / Certification | Organization / Institute | Verification / Grade |
-| :--- | :--- | :--- |
-| **Bharatiya Antariksh Hackathon 2026** | **ISRO & Hack2Skill** | 🛰️ National Space Finalist |
-| **Smart India Hackathon 2026** | **Govt. of India & AMGOI** | 🚀 Team Lead / Finalist Candidate |
-| **AI Deployment & Automation Virtual Internship** | **AICTE & EduSkills** | ⭐ **Grade "O" (Outstanding)** |
-| **Python Full Stack Virtual Internship** | **AICTE & EduSkills** | ⭐ **Grade "O" (Outstanding)** |
-| **Java Full Stack Virtual Internship** | **AICTE & EduSkills** | 🌟 **Grade "A"** |
-| **Spoken Tutorial & Placement Certification** | **IIT Bombay (Abhyuday)** | 🎓 Verified National Certification |
-| **Introduction to Artificial Intelligence** | **IBM SkillsBuild** | 🤖 Industry Credential |
-| **Software Engineer Role Certification** | **HackerRank** | 💻 Certified Role Assessment |
+#### Core Languages & Runtimes
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark" alt="Languages" />
+</a>
+
+#### Frontend Frameworks & 3D Graphics
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,threejs,vite,bootstrap,tailwind&theme=dark" alt="Frontend and 3D" />
+</a>
+
+#### Backend Engines, APIs & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend & DB" />
+</a>
+
+#### Developer Workstation & Tooling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,vercel&theme=dark" alt="Tools" />
+</a>
 
 </div>
 
 ---
 
-### 🛠️ Technical Stack & Tooling
-
-<div align="center">
-
-#### Core Languages
-<img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark" alt="Languages">
-
-#### Frontend & Interactive 3D
-<img src="https://skillicons.dev/icons?i=react,threejs,vite,bootstrap,tailwind&theme=dark" alt="Frontend & 3D">
-
-#### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend & Databases">
-
-#### Developer Tooling & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,vercel&theme=dark" alt="Tools">
-
-</div>
-
----
-
-### 🚀 Highlighted Software Projects
+### 🚀 Highlighted Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 RideX — Full-Stack Cab Booking Platform</h3>
-      <p>A comprehensive ride-booking application built with <strong>Node.js, Express.js, and MySQL</strong> featuring authenticated role-based workflows for passengers and drivers.</p>
+      <h3>🚗 RideX — Cab Booking Platform</h3>
+      <p>A full-stack role-based ride booking platform engineered with <strong>Node.js, Express.js, and MySQL</strong>.</p>
       <ul>
-        <li>Interactive pickup/drop-off route handling and dynamic fare estimations</li>
-        <li>Driver dispatch queue management and secure session authorization</li>
-        <li>Normalized relational database architecture with clean schema constraints</li>
+        <li>Interactive passenger booking flow with live fare calculation and route points</li>
+        <li>Driver dispatch queue management with verified session authentication</li>
+        <li>Clean normalized SQL schema with transaction consistency</li>
       </ul>
       <p>
-        <a href="https://github.com/karanajitkhot/RideX"><b>Explore Codebase →</b></a>
+        <a href="https://github.com/karanajitkhot/RideX"><b>Explore Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Cineverse — Cinematic Movie Platform</h3>
-      <p>A modern, high-performance streaming-inspired movie discovery catalog integrated with the official <strong>TMDB API</strong>.</p>
+      <h3>🎬 Cineverse — Cinematic Discovery</h3>
+      <p>A high-performance streaming-style movie discovery catalog integrated with the official <strong>TMDB REST API</strong>.</p>
       <ul>
-        <li>Real-time search debouncing, genre filtering, and responsive poster carousels</li>
-        <li>Modal detail views with cast, crew, trailers, and ratings metadata</li>
-        <li>Deployed to production on Vercel with mobile-first performance</li>
+        <li>Instant client-side debounced search, genre tags, and smooth trailer preview cards</li>
+        <li>Responsive glassmorphic UI with dynamic layout scaling</li>
+        <li>Deployed to production on Vercel with zero bundle bloat</li>
       </ul>
       <p>
         <a href="https://cineverse-lovat.vercel.app" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/karanajitkhot/cineverse"><b>GitHub Repo →</b></a>
+        <a href="https://github.com/karanajitkhot/cineverse"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💊 MedPlatform — Healthcare & Medicine Portal</h3>
-      <p>A responsive healthcare web application designed to streamline prescription discovery and pharmacy stock queries.</p>
+      <h3>💊 MedPlatform — Prescription &amp; Medicine Hub</h3>
+      <p>A modern healthcare platform designed to streamline pharmacy inventory searches and doctor prescription dispatch.</p>
       <ul>
-        <li>Component-driven React frontend with modular state architecture</li>
-        <li>Form validation, prescription query dispatch, and responsive layout</li>
-        <li>Hosted live on Vercel with continuous CI/CD integration</li>
+        <li>Component-driven React architecture with strict state separation</li>
+        <li>Real-time form validation and error boundary controls</li>
+        <li>Optimized production build hosted live on Vercel</li>
       </ul>
       <p>
         <a href="https://medicine-platform-frontend.vercel.app" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/karanajitkhot/medicine-platform-frontend"><b>GitHub Repo →</b></a>
+        <a href="https://github.com/karanajitkhot/medicine-platform-frontend"><b>Explore Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ CloudTech Hub — Cloud Computing Portal</h3>
-      <p>An educational and reference web portal dissecting cloud models (IaaS, PaaS, SaaS) and deployment workflows.</p>
+      <h3>☁️ CloudTech Hub — Cloud Infrastructure Portal</h3>
+      <p>An interactive knowledge portal breaking down cloud service models (IaaS, PaaS, SaaS) and virtualization architectures.</p>
       <ul>
-        <li>Interactive concepts breakdown with responsive design architecture</li>
-        <li>Continuous hosting on GitHub Pages</li>
-        <li>Clean, semantic HTML5, CSS3, and modern vanilla JavaScript</li>
+        <li>Responsive interactive architectural diagrams</li>
+        <li>Continuous deployment on GitHub Pages</li>
+        <li>Pure semantic HTML5, CSS3, and vanilla JavaScript</li>
       </ul>
       <p>
         <a href="https://karanajitkhot.github.io/cloud-tech-hub/" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
-        <a href="https://github.com/karanajitkhot/cloud-tech-hub"><b>GitHub Repo →</b></a>
+        <a href="https://github.com/karanajitkhot/cloud-tech-hub"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
@@ -147,47 +215,55 @@ I am an aspiring Software Developer focused on building end-to-end digital solut
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/karanajitkhot/karanajitkhot/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=karanajitkhot&amp;bg_color=070d18&amp;color=00F2FE&amp;line=FFAA33&amp;point=FFFFFF&amp;area=true&amp;hide_border=false&amp;border_color=1e293b'" />
+</div>
+
+---
+
+### 📈 GitHub Analytics & Metrics
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=karanajitkhot&show_icons=true&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=070d18&title_color=4fd1c5&icon_color=ffaa33&text_color=e2e8f0" alt="Karan's GitHub Stats" height="175">
+      <img src="https://github-readme-stats.vercel.app/api?username=karanajitkhot&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;bg_color=070d18&amp;title_color=00F2FE&amp;icon_color=FFAA33&amp;text_color=e2e8f0" alt="GitHub Stats" height="175" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanajitkhot&layout=compact&theme=tokyonight&hide_border=false&border_color=1e293b&bg_color=070d18&title_color=4fd1c5&text_color=e2e8f0" alt="Top Languages" height="175">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanajitkhot&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;bg_color=070d18&amp;title_color=00F2FE&amp;text_color=e2e8f0" alt="Top Languages" height="175" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanajitkhot&theme=tokyonight&hide_border=false&border_color=1e293b&background=070d18&ring=4fd1c5&fire=ffaa33&currStreakLabel=4fd1c5&sideNums=e2e8f0&sideLabels=94a3b8" alt="GitHub Streak">
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanajitkhot&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;background=070d18&amp;ring=00F2FE&amp;fire=FFAA33&amp;currStreakLabel=00F2FE&amp;sideNums=e2e8f0&amp;sideLabels=94a3b8" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Direct Communication Channels
 
 <div align="center">
 
-Looking to discuss software engineering opportunities, collaborative projects, or open-source development? Feel free to reach out:
+Interested in discussing software development opportunities, engineering roles, or collaborative projects? Reach out directly:
 
 <br/>
 
 <a href="https://www.linkedin.com/in/karan-khot-22bab227a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Karan%20Khot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="mailto:karankhot1882@gmail.com">
-  <img src="https://img.shields.io/badge/Email-karankhot1882%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-karankhot1882%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://wa.me/919112801882" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B91%209112801882-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-%2B91%209112801882-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
 <br/><br/>
@@ -195,8 +271,5 @@ Looking to discuss software engineering opportunities, collaborative projects, o
 <p align="center">
   <i>"Turning ideas into practical applications, full-stack systems, and reliable software one commit at a time."</i>
 </p>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:0f1c2a,100:070d18&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
