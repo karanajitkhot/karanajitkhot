@@ -38,7 +38,7 @@
 │ Academic Credential   │ B.Tech in Computer Science & Engineering (2027)     │
 │ Alma Mater            │ Ashokrao Mane Group of Institutions (AMGOI), MH     │
 │ Cumulative CGPA       │ 7.0 / 10.0                                          │
-│ Engineering Focus     │ Full-Stack Architecture, REST APIs, 3D Web Graphics │
+│ Engineering Focus     │ Full-Stack Architecture, REST APIs, AI/LLM Systems  │
 │ Current Mission       │ Open for Software Engineering Roles & SDE Interns   │
 │ Operational Base      │ Kolhapur / Ashta, Maharashtra, India                │
 └───────────────────────┴─────────────────────────────────────────────────────┘
@@ -51,102 +51,44 @@
 ### 📊 Technical Power Matrix
 
 ```ini
-[Full-Stack Architecture]   ████████████████████ 96%  (React 19, Node.js, Express, RESTful APIs)
-[Interactive 3D & Graphics]  ██████████████████▒▒ 88%  (Three.js, React Three Fiber, GSAP Easing)
-[Databases & Storage]        ██████████████████▒▒ 90%  (PostgreSQL, MySQL, MongoDB, Schema Design)
+[Full-Stack Architecture]   ████████████████████ 96%  (React, Node.js, Express, RESTful APIs)
+[AI & LLM Engineering]       ██████████████████▒▒ 91%  (Vector Search, RAG Workflows, Prompt Engineering)
+[Databases & Schema Design]  ██████████████████▒▒ 90%  (PostgreSQL, MySQL, MongoDB, Relational Models)
 [Problem Solving & Logic]    ███████████████████▒ 93%  (Data Structures, System Workflows, Debugging)
 [DevOps & Tooling]           ██████████████████▒▒ 89%  (Git, Linux, Vercel, Postman, CI/CD)
 ```
 
 ---
 
-### 🏆 Key Honors & Verified National Milestones
-
-<table>
-  <thead>
-    <tr>
-      <th>Badge</th>
-      <th>Milestone / Assessment</th>
-      <th>Issuing Authority</th>
-      <th>Standing / Distinction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🛰️</td>
-      <td><b>Bharatiya Antariksh Hackathon 2026</b></td>
-      <td><b>ISRO &amp; Hack2Skill</b></td>
-      <td><code>National Space Finalist</code></td>
-    </tr>
-    <tr>
-      <td>🚀</td>
-      <td><b>Smart India Hackathon 2026</b></td>
-      <td><b>Ministry of Education, GoI</b></td>
-      <td><code>Team Lead / Candidate</code></td>
-    </tr>
-    <tr>
-      <td>⭐</td>
-      <td><b>AI Deployment &amp; Automation Internship</b></td>
-      <td><b>AICTE &amp; EduSkills</b></td>
-      <td><code>Grade "O" (Outstanding)</code></td>
-    </tr>
-    <tr>
-      <td>⭐</td>
-      <td><b>Python Full Stack Internship</b></td>
-      <td><b>AICTE &amp; EduSkills</b></td>
-      <td><code>Grade "O" (Outstanding)</code></td>
-    </tr>
-    <tr>
-      <td>🌟</td>
-      <td><b>Java Full Stack Internship</b></td>
-      <td><b>AICTE &amp; EduSkills</b></td>
-      <td><code>Grade "A"</code></td>
-    </tr>
-    <tr>
-      <td>🎓</td>
-      <td><b>Spoken Tutorial &amp; Placement Prep</b></td>
-      <td><b>IIT Bombay (Abhyuday)</b></td>
-      <td><code>Verified National Assessment</code></td>
-    </tr>
-    <tr>
-      <td>🤖</td>
-      <td><b>Introduction to Artificial Intelligence</b></td>
-      <td><b>IBM SkillsBuild</b></td>
-      <td><code>Industry Certified</code></td>
-    </tr>
-    <tr>
-      <td>💻</td>
-      <td><b>Software Engineer Role Assessment</b></td>
-      <td><b>HackerRank</b></td>
-      <td><code>Verified Role Credential</code></td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-### 🛠️ Technical Stack Universe
+### 🛠️ Technical Stack & Tooling
 
 <div align="center">
 
-#### Core Languages & Runtimes
+#### Core Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,cpp,html,css&theme=dark" alt="Core Languages: Java, JavaScript, Python, C++, HTML5, CSS3" />
 </a>
 
-#### Frontend Frameworks & 3D Graphics
+#### Frontend Frameworks & UI
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,threejs,vite,bootstrap,tailwind&theme=dark" alt="Frontend and 3D" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="Frontend: React, Vite, Tailwind CSS, Bootstrap" />
 </a>
 
-#### Backend Engines, APIs & Databases
+#### Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb&theme=dark" alt="Backend & Databases: Node.js, Express.js, PostgreSQL, MySQL, MongoDB" />
 </a>
 
-#### Developer Workstation & Tooling
+#### AI & Modern Dev Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-LLM%20Integration-0F766E?style=for-the-badge&logo=probot&logoColor=white" alt="LLM Integration" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI%20Architecture-Vector%20Search%20%26%20RAG-2563EB?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Search & RAG" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Structured%20Context-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="Prompt Engineering" />
+</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,vercel&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,vscode&theme=dark" alt="Modern Tools: Git, GitHub, Postman, Vercel, Linux, VS Code" />
 </a>
 
 </div>
@@ -203,7 +145,7 @@
       <ul>
         <li>Responsive interactive architectural diagrams</li>
         <li>Continuous deployment on GitHub Pages</li>
-        <li>Pure semantic HTML5, CSS3, and vanilla JavaScript</li>
+        <li>Pure semantic HTML5, CSS3, and modern vanilla JavaScript</li>
       </ul>
       <p>
         <a href="https://karanajitkhot.github.io/cloud-tech-hub/" target="_blank"><b>Live Demo ↗</b></a> &nbsp;|&nbsp;
@@ -219,29 +161,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/karanajitkhot/karanajitkhot/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=karanajitkhot&amp;bg_color=070d18&amp;color=00F2FE&amp;line=FFAA33&amp;point=FFFFFF&amp;area=true&amp;hide_border=false&amp;border_color=1e293b'" />
-</div>
-
----
-
-### 📈 GitHub Analytics & Metrics
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=karanajitkhot&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;bg_color=070d18&amp;title_color=00F2FE&amp;icon_color=FFAA33&amp;text_color=e2e8f0" alt="GitHub Stats" height="175" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanajitkhot&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;bg_color=070d18&amp;title_color=00F2FE&amp;text_color=e2e8f0" alt="Top Languages" height="175" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanajitkhot&amp;theme=tokyonight&amp;hide_border=false&amp;border_color=1e293b&amp;background=070d18&amp;ring=00F2FE&amp;fire=FFAA33&amp;currStreakLabel=00F2FE&amp;sideNums=e2e8f0&amp;sideLabels=94a3b8" alt="GitHub Streak" />
-
 </div>
 
 ---

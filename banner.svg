@@ -49,7 +49,6 @@
     .badge { fill: #A78BFA; }
     .prompt { fill: #F43F5E; font-weight: 700; }
     .path { fill: #38BDF8; }
-    .comment { fill: #64748B; font-style: italic; }
 
     /* Blinking Cursor Animation */
     @keyframes blink {
@@ -110,7 +109,7 @@
   <g transform="translate(32, 78)">
     <text x="0" y="0" class="title" filter="url(#glow)">KARAN AJIT KHOT</text>
     <text x="350" y="-3" font-family="'JetBrains Mono', monospace" font-size="12" fill="#FFAA33" font-weight="600">
-      ✦ [B.Tech CSE '27]
+      ✦ [Software Developer · B.Tech CSE '27]
     </text>
 
     <!-- Terminal Command 1 -->
@@ -119,39 +118,42 @@
       <tspan fill="#64748B"> # specialization &amp; disciplines</tspan>
     </text>
     <text x="18" y="52" class="term-text">
-      <tspan class="str">"Software Developer · Full-Stack &amp; 3D Interactive Web Engineer"</tspan>
+      <tspan class="str">"Software Developer · Full-Stack &amp; AI-Augmented Engineering"</tspan>
     </text>
 
     <!-- Terminal Command 2 -->
     <text x="0" y="82" class="term-text">
-      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--core-stack</tspan>
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--stack</tspan>
     </text>
     <text x="18" y="102" class="term-text">
       <tspan fill="#CBD5E1">[ </tspan>
-      <tspan class="str">"React 19"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Java"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"JavaScript"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"Python"</tspan><tspan fill="#64748B">, </tspan>
+      <tspan class="str">"React"</tspan><tspan fill="#64748B">, </tspan>
       <tspan class="str">"Node.js"</tspan><tspan fill="#64748B">, </tspan>
-      <tspan class="str">"Three.js"</tspan><tspan fill="#64748B">, </tspan>
-      <tspan class="str">"Express.js"</tspan><tspan fill="#64748B">, </tspan>
       <tspan class="str">"PostgreSQL"</tspan><tspan fill="#64748B">, </tspan>
-      <tspan class="str">"Java"</tspan>
+      <tspan class="str">"MySQL"</tspan>
       <tspan fill="#CBD5E1"> ]</tspan>
     </text>
 
     <!-- Terminal Command 3 -->
     <text x="0" y="132" class="term-text">
-      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--honors</tspan>
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--ai-and-llm</tspan>
     </text>
     <text x="18" y="152" class="term-text">
-      <tspan class="badge">🛰️ ISRO Antariksh '26 Finalist</tspan>
+      <tspan class="badge">🧠 LLM Integration</tspan>
       <tspan fill="#475569"> │ </tspan>
-      <tspan class="badge">🚀 Smart India Hackathon '26</tspan>
+      <tspan class="badge">⚡ Prompt Engineering</tspan>
       <tspan fill="#475569"> │ </tspan>
-      <tspan class="badge">⭐ AICTE Grade 'O' Intern</tspan>
+      <tspan class="badge">🔍 Vector Search &amp; RAG</tspan>
+      <tspan fill="#475569"> │ </tspan>
+      <tspan class="badge">🔗 REST AI APIs</tspan>
     </text>
 
     <!-- Terminal Command 4 (Active Execution with Blinking Cursor) -->
     <text x="0" y="182" class="term-text">
-      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--status</tspan> <tspan fill="#E2E8F0">"Engineering high-performance software and ready for SDE roles"</tspan> <tspan class="cursor">█</tspan>
+      <tspan class="prompt">➜</tspan> <tspan class="path">~</tspan> <tspan class="keyword">karan</tspan> <tspan class="fn">--status</tspan> <tspan fill="#E2E8F0">"Engineering high-performance software &amp; ready for SDE roles"</tspan> <tspan class="cursor">█</tspan>
     </text>
   </g>
 
