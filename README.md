@@ -192,3 +192,5 @@ Interested in discussing software development opportunities, engineering roles, 
 </p>
 
 </div>
+
+<!-- Verified engineering profile -->
